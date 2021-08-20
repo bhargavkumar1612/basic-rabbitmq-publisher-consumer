@@ -1,0 +1,7 @@
+SET LANG=C.UTF-8 LC_ALL=C.UTF-8 PYTHONUNBUFFERED=1
+SET BROKER_URL=amqp://bhargav:bhargav@localhost:5672/vhost
+SET BROKER_EXCHANGE=server
+SET DB_URL=mongodb://localhost:27017/
+SET DB_USERNAME=admin
+SET DB_PASSWORD=password
+SET DB_PORT=27017
